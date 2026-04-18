@@ -1,0 +1,8 @@
+app_id,submitted_at,name,email,phone,income,employment,loan_amount,loan_purpose,caste,state,education,assets,scheme_name,aadhar_verified,eligibility_score,status,rejection_reason,agent_note
+APP-20260417235109,17-04-2026 23:51,rithanyaa,rithanya21072004@gmail.com,9629436225,150000,Farmer,300000,Agriculture,General,Tamil Nadu,Below 10th,Yes,PM Kisan Samman Nidhi,False,0.0,Approved,,
+APP-20260418002213,18-04-2026 00:22,geetha,rithanya21072004@gmail.com,9629436225,300000,Farmer,550000,Agriculture,General,Tamil Nadu,Graduate,Yes,PM Kisan Samman Nidhi,False,0.0,Approved,,
+APP-20260418002612,18-04-2026 00:26,Sri,rithanya21072004@gmail.com,9629436225,0,Student,100000,Education,General,Tamil Nadu,Graduate,No,General Scheme Application,False,0.0,Rejected,Does not meet criteria,
+APP-20260418002929,18-04-2026 00:29,lalitha,rithanya21072004@gmail.com,9629436225,150000,Unemployed,200000,Medical,General,Tamil Nadu,12th Pass,No,General Scheme Application,False,0.0,Approved,,
+APP-20260418005841,18-04-2026 00:58,rithh,rithanya21072004@gmail.com,9629436225,150000,Salaried,250000,Other,General,Tamil Nadu,12th Pass,No,Sukanya Samriddhi Yojana,False,0.0,Approved,,
+APP-20260418010849,18-04-2026 01:08,rithanyaa,rithanya21072004@gmail.com,9629436225,150000,Unemployed,300000,Medical,General,Tamil Nadu,12th Pass,No,General Scheme Application,True,1.0,Rejected,Does not meet criteria,
+APP-20260418012820,18-04-2026 01:28,rithanyaa,rithanya21072004@gmail.com,9629436225,150000,Salaried,300000,Medical,General,Tamil Nadu,12th Pass,No,Stand Up India,True,1.0,Rejected,Does not meet criteria,
